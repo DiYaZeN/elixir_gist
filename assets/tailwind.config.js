@@ -30,6 +30,13 @@ module.exports = {
           light: "#BC9AFF",
         },
       },
+      fontFamily: {
+        brand: ["WorkSans", "sans-serif"],
+      },
+      fontWeight: {
+        regular: "normal",
+        bold: "bold",
+      },
     },
   },
   plugins: [
